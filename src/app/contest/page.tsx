@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { prisma } from "@/lib/prisma";
 import { LiveContestRoom } from "./LiveContestRoom";
 import Link from "next/link";
